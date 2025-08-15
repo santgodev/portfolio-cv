@@ -1,0 +1,17 @@
+IMÁGENES NECESARIAS PARA EL PORTAFOLIO
+
+Coloca las siguientes imágenes en esta carpeta:
+
+1. profile.jpg - Tu foto de perfil profesional (300x300px recomendado)
+2. project1.jpg - Captura del proyecto "Sistema de Microservicios E-commerce"
+3. project2.jpg - Captura del proyecto "SIEM Dashboard de Seguridad"
+4. project3.jpg - Captura del proyecto "Plataforma de Análisis de Malware"
+5. cv.pdf - Tu CV en formato PDF para descarga
+
+FORMATOS RECOMENDADOS:
+- Imágenes: JPG o PNG
+- CV: PDF
+- Tamaño máximo: 2MB por archivo
+
+NOTA: Si no tienes las imágenes de proyectos, puedes usar placeholders temporales
+o crear capturas de pantalla de tus proyectos reales. 
